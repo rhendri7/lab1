@@ -1,0 +1,14 @@
+total 200
+drwx------@   3 rjhendrix  staff      96 Sep 28  2021 Applications
+drwx------@  16 rjhendrix  staff     512 Apr 12 16:52 Desktop
+drwx------@  36 rjhendrix  staff    1152 Apr 11 14:11 Documents
+drwx------@ 252 rjhendrix  staff    8064 Apr 10 16:18 Downloads
+drwx------@ 101 rjhendrix  staff    3232 Apr 11 12:44 Library
+drwx------   20 rjhendrix  staff     640 Feb 26 17:00 Movies
+drwx------+  17 rjhendrix  staff     544 Apr 11 14:02 Music
+drwx------+   8 rjhendrix  staff     256 Feb 13 13:54 Pictures
+drwxr-xr-x    3 rjhendrix  staff      96 Apr  7 14:35 Postman
+drwxr-xr-x+   5 rjhendrix  staff     160 Feb 15  2022 Public
+-rw-r--r--    1 rjhendrix  staff  101580 Jul 22  2022 alauda.wav
+drwxr-xr-x   11 rjhendrix  staff     352 Apr 12 16:28 cit281
+-rw-r--r--    1 rjhendrix  staff       0 Apr 12 16:57 lab-01-folders.txt
